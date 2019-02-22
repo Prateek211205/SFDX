@@ -1,0 +1,389 @@
+[
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app",
+        {
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1550866046853,
+            "changeTime": 1550866046853,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main",
+        {
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1550866046853,
+            "changeTime": 1550866046853,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 384,
+            "modifiedTime": 1550868413106,
+            "changeTime": 1550868413106,
+            "contentHash": "df7c8707ebc7d935a268a38c6dd3e8a72624ac5f"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1550866046853,
+            "changeTime": 1550866046853,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1550866243022,
+            "changeTime": 1550866243022,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject",
+        {
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1550866181007,
+            "changeTime": 1550866181007,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6383,
+            "modifiedTime": 1550867954392,
+            "changeTime": 1550867954392,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/settings",
+        {
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/settings",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1550867954392,
+            "changeTime": 1550867954392,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/objects/Project__c/Project__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/objects/Project__c/Project__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2059,
+            "modifiedTime": 1550868412822,
+            "changeTime": 1550868412822,
+            "contentHash": "53952102d420194357c69fad0071276cb0349e03"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/objects/Project__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/objects/Project__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1550868412823,
+            "changeTime": 1550868412823,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/layouts/Project__c-Project Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/layouts/Project__c-Project Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1550868412880,
+            "changeTime": 1550868412880,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/flexipages/Project_Management_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/flexipages/Project_Management_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 513,
+            "modifiedTime": 1550868412899,
+            "changeTime": 1550868412899,
+            "contentHash": "fa4401d83c6cc90d89b3cc21f4336af522243243"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/tabs/Project__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/tabs/Project__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1550868412910,
+            "changeTime": 1550868412910,
+            "contentHash": "01e1520670e7de1ffa1bdb91368f78ce2782a1db"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/applications/Project_Management.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/applications/Project_Management.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 720,
+            "modifiedTime": 1550868412932,
+            "changeTime": 1550868412932,
+            "contentHash": "b2b541e82cd7f1412e33d5f804d4e135fda1bf57"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4841,
+            "modifiedTime": 1550868412944,
+            "changeTime": 1550868412944,
+            "contentHash": "8a7105b1d003c5ec39136d3e674e451e4d646df7"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4841,
+            "modifiedTime": 1550868412979,
+            "changeTime": 1550868412979,
+            "contentHash": "8a7105b1d003c5ec39136d3e674e451e4d646df7"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5179,
+            "modifiedTime": 1550868413029,
+            "changeTime": 1550868413029,
+            "contentHash": "1b22cafbcf9a572063d9a645e1e858ebb66c2ca6"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19316,
+            "modifiedTime": 1550868413103,
+            "changeTime": 1550868413103,
+            "contentHash": "b7351cf35f9a82fa3abafaad2007e3aee7e5f68d"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/contentassets/IJMLogo.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/contentassets/IJMLogo.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 527,
+            "modifiedTime": 1550868413106,
+            "changeTime": 1550868413106,
+            "contentHash": "b43e4fb126754d36eae3d9a61e70090a948aae20"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/contentassets/IJMLogo.asset",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/contentassets/IJMLogo.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3500,
+            "modifiedTime": 1550868413151,
+            "changeTime": 1550868413151,
+            "contentHash": "bf73e45288952a5fee3ea11748bb49cc7e6d508f"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/objects/Project__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/objects/Project__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1550868412823,
+            "changeTime": 1550868412823,
+            "contentHash": "5122dd9e8c7543c8b681b5f61b24f4c75f843c8f"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1550868412819,
+            "changeTime": 1550868412819,
+            "contentHash": "a68f7db177ea557d53001fbc73d45890c1ebfa86"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/objects/Project__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/objects/Project__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1550868412823,
+            "changeTime": 1550868412823,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1550868412880,
+            "changeTime": 1550868412880,
+            "contentHash": "3c38e34a3880c0574567f497dd1c81690f7d9305"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1550868412899,
+            "changeTime": 1550868412899,
+            "contentHash": "9b8f25e94bc7a1887db33f477bfc2106d44507ea"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1550868412910,
+            "changeTime": 1550868412910,
+            "contentHash": "0eda2ebe2a62d0e10d0206380e8d2314ca18b852"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1550868412932,
+            "changeTime": 1550868412932,
+            "contentHash": "e9912d87656eff760ef208043367fc0749c0caa0"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1550868413103,
+            "changeTime": 1550868413103,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/contentassets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/sfdx/ManageProject/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1550868413150,
+            "changeTime": 1550868413150,
+            "contentHash": "9cf6352fabccebb192f4453a773bce00bd24e4ff"
+        }
+    ]
+]
